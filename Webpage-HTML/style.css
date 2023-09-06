@@ -1,0 +1,22 @@
+img {
+    height:200px;
+    width:200px;
+}
+
+.Red{
+    color:red;
+}
+
+.BGcolor{
+    color: white;
+    background-color: black;
+}
+
+.Size{
+    font-size: 20px;
+}
+
+.strokeWeight{
+    font-size: 20px;
+    font-weight: bold;
+}
