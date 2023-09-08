@@ -24,6 +24,6 @@ img {
 }
 
 /* Select element with individual id name using # */
-# pinkID{
+#pinkID{
     color:pink;
 }
