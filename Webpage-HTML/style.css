@@ -1,8 +1,13 @@
+/* Select all elements with tag 'img' */
 img {
     height:200px;
     width:200px;
 }
 
+
+/* Select element with same class name */
+
+/* Select element with individual id names */
 .Red{
     color:red;
 }
@@ -20,3 +25,4 @@ img {
     font-size: 20px;
     font-weight: bold;
 }
+
