@@ -4,10 +4,7 @@ img {
     width:200px;
 }
 
-
-/* Select element with same class name */
-
-/* Select element with individual id names */
+/* Select element with same class name using .*/
 .Red{
     color:red;
 }
@@ -26,3 +23,7 @@ img {
     font-weight: bold;
 }
 
+/* Select element with individual id name using # */
+# pinkID{
+    color:pink;
+}
