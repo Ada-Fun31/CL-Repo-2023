@@ -23,7 +23,3 @@ img {
     font-weight: bold;
 }
 
-/* Select element with individual id name using # */
-#pinkID{
-    color:pink;
-}
